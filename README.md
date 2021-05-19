@@ -1,2 +1,4 @@
 # Flask_translator_webapp
-#### To try the LIVE translation activity: visit http://52.14.165.25:5000/
+
+### The application is deployed on AWS EC2 machine
+### To try the LIVE translation activity: visit http://3.22.98.205:5000/
