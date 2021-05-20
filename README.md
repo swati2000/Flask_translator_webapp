@@ -3,8 +3,8 @@
 ### The application is deployed on AWS EC2 machine
 ### To try the LIVE translation activity: visit http://3.22.98.205:5000/
 
-#####This project is based on learning gained from Micrsoft Learn platform. 
-#####In this module, we have built a website using Flask and Azure Cognitive Services to translate text in multiple languages listed in the drop down menu.
+This project is based on learning gained from Micrsoft Learn platform. '\n'
+In this module, we have built a website using Flask and Azure Cognitive Services to translate text in multiple languages listed in the drop down menu.
 
 #####We Learnt:
 #####1. How to set up a Flask development environment
