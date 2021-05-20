@@ -4,7 +4,7 @@
 ### To try the LIVE translation activity: visit http://3.22.98.205:5000/
 
 This project is based on learning gained from Micrsoft Learn platform.
-\n In this module, we have built a webapp using Flask, Python and Azure Cognitive Services to translate text in multiple languages.
+We have built a webapp using Flask, Python and Azure Cognitive Services to translate text in multiple languages.
 
 We Learnt:
 1. How to set up a Flask development environment
