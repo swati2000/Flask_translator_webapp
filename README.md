@@ -11,7 +11,8 @@ We Learnt:
 2. How to use Flask to build a form and
 3. How to use the Translator service to translate text
 
-Tools Used: Python(3.6 or above) and Visual Studio Code
+Tools Used: Python(3.6 or above) and Visual Studio Code.
+
 For translator service, we have used Azure Cloud Computing platform for accessing the keys for Cognitive Services.
 
 Creating the app:
