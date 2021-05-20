@@ -22,7 +22,7 @@ Creating the app:
 - The HTML code is present in 'templates' folder where we have two files index.html to take the input (to accept the text and language code as response for translation service) and result.html to show the output (original text, translated text and language code selected by the user)
 
 
-#### Once you click on IP mentioned above, the forntend will look like:
+#### Once you click on IP address mentioned above, the forntend will look like:
 ### For index.html
 ![image](https://user-images.githubusercontent.com/44521329/118927174-0614f300-b95f-11eb-93b8-caf6c9537b77.png)
 
