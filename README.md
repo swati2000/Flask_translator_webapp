@@ -17,7 +17,7 @@ For translator service, we have used Azure Cloud Computing platform for accessin
 
 
 Creating the app:
-- I have created the core application in file named app.py.
-- The routes have been added for GET and POST methods for the user to fetch the HTML page (GET) and to provide the text, choose the translator language code and recieve the translated text along with the language code the user chose earlier (POST).
-- The HTML code is present in 'templates' folder where we have two files index.html to take the input (to show the form to user, accept the text and language code as response for translation service) and result.html to show the output (original text, translated text and language code selected by the user).
+- I have created the core application in file named app.py
+- The routes have been added for GET and POST methods for the user to fetch the HTML page (GET) and to provide the text, choose the translator language code and recieve the translated text along with the language code the user chose earlier (POST)
+- The HTML code is present in 'templates' folder where we have two files index.html to take the input (to accept the text and language code as response for translation service) and result.html to show the output (original text, translated text and language code selected by the user)
 
