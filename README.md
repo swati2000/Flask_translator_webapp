@@ -1,8 +1,3 @@
-# Flask_translator_webapp
-
-### The application is deployed on AWS EC2 machine
-### To try the LIVE translation activity: visit http://3.22.98.205:5000/
-
 This project is based on learning gained from Micrsoft Learn platform.
 I have built a webapp using Flask, Python and Azure Cognitive Services to translate text in multiple languages.
 
